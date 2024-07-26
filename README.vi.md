@@ -1,4 +1,7 @@
 # Vietnamese Accent Recognition
+[![en](https://img.shields.io/badge/lang-en-blue.svg)](https://github.com/TUT888/VietnameseAccentRecognition/blob/master/README.md)
+[![vi](https://img.shields.io/badge/lang-vi-red.svg)](https://github.com/TUT888/VietnameseAccentRecognition/blob/master/README.vi.md)
+
 Đề tài: Nhận dạng âm thanh vùng miền bằng phương pháp học sâu <br>
 
 ## Project Description
